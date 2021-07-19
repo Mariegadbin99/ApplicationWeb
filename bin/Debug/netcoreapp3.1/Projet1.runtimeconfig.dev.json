@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fcala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fcala\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.exe
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.deps.json
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.runtimeconfig.json
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.runtimeconfig.dev.json
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.dll
+C:\Users\fcala\source\repos\Projet1\Projet1\bin\Debug\netcoreapp3.1\Projet1.pdb
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.csprojAssemblyReference.cache
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.AssemblyInfoInputs.cache
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.AssemblyInfo.cs
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.csproj.CoreCompileInputs.cache
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.dll
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.pdb
+C:\Users\fcala\source\repos\Projet1\Projet1\obj\Debug\netcoreapp3.1\Projet1.genruntimeconfig.cache
