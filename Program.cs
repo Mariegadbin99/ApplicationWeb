@@ -9,8 +9,14 @@ namespace Projet1
             var personne1 = new Personne();
             var personne2 = new Personne();
 
-            personne1.Afficher("thomas", "Villier", 1990);
-            personne2.Afficher("Nathalie", "Radhouane", 1997);
+            personne1.Afficher1("thomas", "Villier", 1990);
+            personne2.Afficher1("Nathalie", "Radhouane", 1997);
+
+            var animal1 = new Animal();
+            var animal2 = new Animal();
+
+            animal1.Afficher2("cat", "male", 21);
+            animal2.Afficher2("horse", "female", 1);
 
 
         }
