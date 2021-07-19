@@ -8,14 +8,27 @@ namespace Projet1
     {
         string p_name;
         string p_usname;
-        int p_birtday;
-        public void Afficher1 (string name, string usname, int birtday)
+        DateTime p_birtday;
+        public void Afficher1 (string name, string usname, DateTime birtday)
         {
             this.p_name = name;
             this.p_usname = usname;
             this.p_birtday = birtday;
 
             Console.WriteLine(name + usname + birtday);
+        }
+
+        public bool IsYourBirthday()
+        {
+
+            if ((DateTime.Now.Day == p_birtday.Day) && (DateTime.Now.Month == p_birtday.Month))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 
